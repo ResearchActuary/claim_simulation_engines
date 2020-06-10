@@ -1,0 +1,39 @@
+---
+title: Claim Simulation Engines
+author: Kevin Kuo, Brian A. Fannin ACAS, CSPA 
+bibliography: ref/references.bib
+---
+
+<!-- 
+This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at https://mozilla.org/MPL/2.0/. 
+-->
+
+```{r include = FALSE}
+knitr::opts_chunk$set(
+  echo = FALSE
+  , out.width = "4in"
+)
+```
+
+::: {custom-style=Subtitle}
+Abstract
+:::
+
+::: {custom-style=Abstract}
+Claim simulation engines, blah, blah
+:::
+
+::: {custom-style=Subtitle}
+Keywords
+:::
+
+:::{custom-style=keywords}
+simulation, loss reserving
+:::
+
+# Introduction
+
+<!-- 
+Reference Stanard
+Venter comment in testing the assumptions
+-->

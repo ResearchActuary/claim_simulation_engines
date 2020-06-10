@@ -1,0 +1,13 @@
+book_filename: "claim_sim_engines"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Section "
+
+rmd_files: [
+  "intro.Rmd"
+  , 'common_features.Rmd'
+  , "specific_examples.Rmd"
+  , 'comparison.Rmd'
+  , 'conclusion.Rmd'
+]

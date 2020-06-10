@@ -1,0 +1,5 @@
+# Comparison
+
+<!-- 
+In this section, we could feed roughly equal assumptions into the simulation engines. Not sure what the basis of comparison is. Number of outliers? Complexity of model definition?
+-->

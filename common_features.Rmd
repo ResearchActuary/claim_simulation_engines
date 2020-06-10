@@ -1,0 +1,6 @@
+# Common Features
+
+* Coverage period
+* Lag until reporting
+* Lag until payment
+* Probability of claim reopening
